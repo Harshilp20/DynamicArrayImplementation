@@ -3,7 +3,7 @@
 ## Course: Programming Languages CS 3003 - 001
 ## Assignment: Dynamo of Volition
 ##
-## Recieved help from Grant Guernsey about free/local variables
+## Implement a Dynamic Scope Class for Python
 
 from typing import Dict, Any, Iterator, Optional
 from collections import abc
